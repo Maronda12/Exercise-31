@@ -1,0 +1,12 @@
+/Users/Maronda/Projects/Exercise31/Exercise31/bin/Debug/netcoreapp3.1/Exercise31.deps.json
+/Users/Maronda/Projects/Exercise31/Exercise31/bin/Debug/netcoreapp3.1/Exercise31.runtimeconfig.json
+/Users/Maronda/Projects/Exercise31/Exercise31/bin/Debug/netcoreapp3.1/Exercise31.runtimeconfig.dev.json
+/Users/Maronda/Projects/Exercise31/Exercise31/bin/Debug/netcoreapp3.1/Exercise31.dll
+/Users/Maronda/Projects/Exercise31/Exercise31/bin/Debug/netcoreapp3.1/Exercise31.pdb
+/Users/Maronda/Projects/Exercise31/Exercise31/obj/Debug/netcoreapp3.1/Exercise31.csproj.AssemblyReference.cache
+/Users/Maronda/Projects/Exercise31/Exercise31/obj/Debug/netcoreapp3.1/Exercise31.AssemblyInfoInputs.cache
+/Users/Maronda/Projects/Exercise31/Exercise31/obj/Debug/netcoreapp3.1/Exercise31.AssemblyInfo.cs
+/Users/Maronda/Projects/Exercise31/Exercise31/obj/Debug/netcoreapp3.1/Exercise31.csproj.CoreCompileInputs.cache
+/Users/Maronda/Projects/Exercise31/Exercise31/obj/Debug/netcoreapp3.1/Exercise31.dll
+/Users/Maronda/Projects/Exercise31/Exercise31/obj/Debug/netcoreapp3.1/Exercise31.pdb
+/Users/Maronda/Projects/Exercise31/Exercise31/obj/Debug/netcoreapp3.1/Exercise31.genruntimeconfig.cache
